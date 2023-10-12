@@ -1,1 +1,1 @@
-# Flix
+# Kafka on the go
